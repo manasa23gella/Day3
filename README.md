@@ -4,3 +4,4 @@ A simple project for campus announcements.
 - Add new notices
 Hi
 I am Amrutha
+Good Evening Bhimavaram
